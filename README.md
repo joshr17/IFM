@@ -22,7 +22,7 @@ An ideal encoder would  discriminate between instances using multiple distinguis
 
 In this paper we present implicit feature modification, a method for reducing shortcut learning in contorstive leanring while adding no computational overhead, and requiring only a couple of lines of code to implement. We also find that IFM improves downstream generalization. This repo contains a minimally modificed version of the official [MoCo code](https://github.com/facebookresearch/moco) to illustrate the simplicity of the implementation. 
 
-To reproduce on ImageNet100 results, first Install PyTorch and ImageNet dataset following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet), and select the [100 sublasses](https://github.com/HobbitLong/CMC/blob/master/imagenet100.txt). To do 200 epochs of unsupervised pre-training using a ResNet-50 model using our method, run for example:
+To reproduce our ImageNet100 results, first Install PyTorch and ImageNet dataset following the [official PyTorch ImageNet training code](https://github.com/pytorch/examples/tree/master/imagenet), and select the [100 sublasses](https://github.com/HobbitLong/CMC/blob/master/imagenet100.txt). To do 200 epochs of unsupervised pre-training using a ResNet-50 model using our method, run for example:
 ```
 python main_moco.py \
   -a resnet50 \
