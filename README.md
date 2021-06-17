@@ -32,11 +32,11 @@ python main_moco.py \
   --mlp --moco-t 0.2 --aug-plus --cos
   --dist-url 'tcp://localhost:10001' --multiprocessing-distributed --world-size 1 --rank 0 \
   --method ifm \
-  --eps 0.1 \
+  --epsilon 0.1 \
   --dataset_root PATH/TO/DATA
 ```
 
-To run standard MoCo-v2 simply remove the `--method` and `--eps` arguments. Training should fit on any 8-gpu machine, but also works on 4 Tesla V100s. For linear evaluation run,
+To run standard MoCo-v2 simply remove the `--method` and `--epsilon` arguments. Training should fit on any 8-gpu machine, but also works on 4 Tesla V100s. For linear evaluation run,
 
 ```
 python main_lincls.py \
