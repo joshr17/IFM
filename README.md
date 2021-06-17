@@ -10,7 +10,7 @@ The generalization of representations learned via contrastive learning depends c
 <br/>
 [Joshua Robinson](https://joshrobinson.mit.edu/), 
 [Li Sun](https://lisun97.github.io/), 
-[Ke Yu](http://www.isp.pitt.edu/node/1945)
+[Ke Yu](http://www.isp.pitt.edu/node/1945),
 [Kayhan Batmanghelich](https://batman-lab.com/), 
 [Stefanie Jegelka](https://people.csail.mit.edu/stefje/), and
 [Suvrit Sra](http://optml.mit.edu/)
