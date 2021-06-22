@@ -54,7 +54,7 @@ Checkpoints for models pre-trained on ImageNet100 can be downloaded here:
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
 <th valign="bottom"></th>
-<th valign="bottom">epochs</th
+<th valign="bottom">epochs</th>
 <th valign="bottom">epsilon</th>
 <th valign="bottom">top-1 acc.</th>
 <th valign="bottom">model</th>
