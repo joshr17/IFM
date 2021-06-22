@@ -57,7 +57,7 @@ Checkpoints for models pre-trained on ImageNet100 can be downloaded here:
 <th valign="bottom">epochs</th>
 <th valign="bottom">epsilon</th>
 <th valign="bottom">top-1 acc.</th>
-<th valign="bottom">model</th>
+<th valign="bottom">checkpoint</th>
 <!-- TABLE BODY -->
 <tr><td align="left"><a href="https://arxiv.org/abs/1911.05722">MoCo-v2</a></td>
   <td align="center">200</td>
