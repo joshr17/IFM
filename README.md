@@ -94,7 +94,7 @@ If you find this repo useful for your research, please consider citing the paper
 @article{robinson2021shortcuts,
   title={Can contrastive learning avoid shortcut solutions?},
   author={Robinson, Joshua and Chuang, Ching-Yao, and Sra, Suvrit and Jegelka, Stefanie},
-  journal={arXiv},
+  journal={arXiv:2106.11230},
   year={2021}
 }
 ```
