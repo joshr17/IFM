@@ -49,7 +49,7 @@ python main_lincls.py \
 --dataset_root=PATH/TO/DATA
 ```
 
-Our models pre-trained on ImageNet100 with ResNet-50 backbones can be downloaded here:
+Checkpoints for models pre-trained on ImageNet100 can be downloaded here:
 <table><tbody>
 <!-- START TABLE -->
 <!-- TABLE HEADER -->
