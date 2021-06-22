@@ -8,7 +8,7 @@ The generalization of representations learned via contrastive learning depends c
 
 An ideal encoder would  discriminate between instances using multiple distinguishing features instead of finding simple shortcuts that suppress features. We show that InfoNCE-trained encoders can suppress features (Sec. 2.2). However, making instance discrimination harder during training can trade off representation of different features (Sec. 2.3). To avoid the need for trade-offs we propose implicit feature modification (Sec. 3}), which reduces suppression in general, and improves generalization (Sec. 4). 
 
-**Can contrastive learning avoid shortcut solutions?** [[paper]]
+**Can contrastive learning avoid shortcut solutions?** [[paper]](https://arxiv.org/pdf/2106.11230.pdf)
 <br/>
 [Joshua Robinson](https://joshrobinson.mit.edu/), 
 [Li Sun](https://lisun97.github.io/), 
