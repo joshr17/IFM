@@ -167,11 +167,11 @@ def main_worker(gpu, ngpus_per_node, args):
                                 world_size=args.world_size, rank=args.rank)
     # create model
     print("=> creating model '{}'".format(args.arch))
-    if args.adversarial_method is None:
+    if args.method is None:
         model = moco.builder.MoCo(
             models.__dict__[args.arch],
             args.moco_dim, args.moco_k, args.moco_m, args.moco_t, args.mlp)
-    if args.adversarial_method in ['ifm', 'ifm_only']:
+    if args.method in ['ifm', 'ifm_only']:
         model = moco.adv_builder.MoCo(
             models.__dict__[args.arch],
             args.moco_dim, args.moco_k, args.moco_m, args.moco_t, args.mlp, args.epsilon)
