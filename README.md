@@ -63,25 +63,25 @@ Checkpoints for models pre-trained on ImageNet100 can be downloaded here:
   <td align="center">200</td>
 <td align="center">0</td>
 <td align="center">80.5</td>
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1j9xEZc4P-8VOlqc2jnBlnZlqRCHxEzwy/view?usp=sharing">download</a></td>
 </tr>
 <tr><td align="left"><a href="">IFM-MoCo-v2</a></td>
   <td align="center">200</td>
 <td align="center">0.05</td>
 <td align="center">81.1</td>
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1rAsixq90OVi_0n6iFtN2IGzzfsI9V8JY/view?usp=sharing">download</a></td>
 </tr>
 <tr><td align="left"><a href="">IFM-MoCo-v2</a></td>
   <td align="center">200</td>
 <td align="center">0.1</td>
 <td align="center">81.4</td>
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1kNj6YleQu8vrC6ggbFVYvIUhiMHgbkew/view?usp=sharing">download</a></td>
 </tr>
   <tr><td align="left"><a href="">IFM-MoCo-v2</a></td>
     <td align="center">200</td>
 <td align="center">0.2</td>
 <td align="center">80.9</td>
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://drive.google.com/file/d/1A4k6fC5jcoBLHGyJjd5ggBVPW9TtODtp/view?usp=sharing">download</a></td>
 </tr>
   
 </tbody></table>
